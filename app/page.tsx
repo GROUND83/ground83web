@@ -23,7 +23,7 @@ export default function Home() {
         <div className="text-white flex flex-col items-center mt-6 text-sm gap-3">
           <p>GROUND83</p>
           <p>WEB AGENCY</p>
-          <p>wochang.k@gmail.com</p>
+          <p>wonchang.k@gmail.com</p>
         </div>
       </div>
     </main>

@@ -17,12 +17,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" className="bg-black">
-      <Head>
-        <meta
-          name="google-site-verification"
-          content="k0n57kkvjhQM0_FIrGZ__zlXC9DQrHYd0IoIhoSmdEU"
-        />
-      </Head>
+      <meta
+        name="google-site-verification"
+        content="k0n57kkvjhQM0_FIrGZ__zlXC9DQrHYd0IoIhoSmdEU"
+      />
+
       <body className={inter.className}>{children}</body>
     </html>
   );
